@@ -1,0 +1,8 @@
+2019-10-24 14:12:34,686 INFO (StartupInfoLogger.java:59)- Started App in 9.106 seconds (JVM running for 10.087)
+2019-10-24 14:13:15,767 INFO (StartupInfoLogger.java:50)- Starting WeatherControlerTest on E53FL4D50OWPDB1 with PID 5556 (started by Administrator in E:\workspace_my\Weather\weather)
+2019-10-24 14:13:15,770 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+2019-10-24 14:13:15,773 INFO (SpringApplication.java:675)- No active profile set, falling back to default profiles: default
+2019-10-24 14:13:20,896 INFO (StartupInfoLogger.java:59)- Started WeatherControlerTest in 5.927 seconds (JVM running for 7.513)
+2019-10-24 14:13:47,253 INFO (StartupInfoLogger.java:50)- Starting WeatherControlerTest on E53FL4D50OWPDB1 with PID 3968 (started by Administrator in E:\workspace_my\Weather\weather)
+2019-10-24 14:13:47,261 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+2019-10-24 14:13:47,268 INFO (SpringApplication.java:675)- No active profile set, falling back to default profiles: default
