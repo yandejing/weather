@@ -1,8 +1,0 @@
-2019-10-24 11:30:13,253 INFO (StartupInfoLogger.java:59)- Started App in 6.026 seconds (JVM running for 6.779)
-2019-10-24 11:30:24,286 INFO (StartupInfoLogger.java:50)- Starting App on E53FL4D50OWPDB1 with PID 8984 (E:\workspace_my\Weather\weather\target\classes started by Administrator in E:\workspace_my\Weather\weather)
-2019-10-24 11:30:24,295 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
-2019-10-24 11:30:24,298 INFO (SpringApplication.java:675)- No active profile set, falling back to default profiles: default
-2019-10-24 11:30:31,231 INFO (StartupInfoLogger.java:59)- Started App in 9.243 seconds (JVM running for 10.313)
-2019-10-24 14:04:07,654 INFO (StartupInfoLogger.java:50)- Starting App on E53FL4D50OWPDB1 with PID 13352 (E:\workspace_my\Weather\weather\target\classes started by Administrator in E:\workspace_my\Weather\weather)
-2019-10-24 14:04:07,672 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
-2019-10-24 14:04:07,676 INFO (SpringApplication.java:675)- No active profile set, falling back to default profiles: default
