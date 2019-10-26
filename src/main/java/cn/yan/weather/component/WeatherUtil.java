@@ -15,15 +15,16 @@ public class WeatherUtil {
 
 	@Value("${hf.key}")
 	private String key;
+	@Value("${hf.url}")
+	private String url;
 
 	public String getWeather(String location) {
-		String param = "key=" + key + "&location=" + location;
+		String param = "lang=zh&key=" + key + "&location=" + location;
 		StringBuilder sb = new StringBuilder();
 		InputStream is = null;
 		BufferedReader br = null;
 		PrintWriter out = null;
 		try {
-			String url = "https://free-api.heweather.net/s6/weather/now";
 			URL uri = new URL(url);
 			HttpURLConnection connection = (HttpURLConnection) uri.openConnection();
 			connection.setRequestMethod("POST");
